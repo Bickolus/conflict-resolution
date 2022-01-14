@@ -1,2 +1,2 @@
 # conflict-resolution
-In-class activity 
+hello it is me!
